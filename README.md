@@ -1,7 +1,8 @@
 # Chapter 5: Memory Is the Product
 ### My AskAI's Customer Support Architecture
 **Design of Agentic Systems with Case Studies — INFO 7375 Take-Home Midterm**
-YouTube Video Link: https://youtu.be/caaLVtPVicc
+
+**YouTube Video Link: https://youtu.be/caaLVtPVicc**
 ---
 
 ## What This Is
